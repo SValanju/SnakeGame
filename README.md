@@ -1,2 +1,3 @@
-# SnakeGame
-Simple java project
+# Snake Game
+
+Snake game built using Java
